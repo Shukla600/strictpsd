@@ -115,7 +115,7 @@ transition: 0.4s all ease-in-out;
 .banertext a:hover{
     background-color: #15a4fa;
     color:#fff;
-    border: none;
+    border: 1px solid #15a4fa;
     
 }
 .simple_text{
